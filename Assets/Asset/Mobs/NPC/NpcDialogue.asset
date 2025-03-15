@@ -19,7 +19,7 @@ MonoBehaviour:
   - You need to eat something young man, you are too skini.
   - So go find some food.
   - Don't eat bones, eat pumpkins for +1 hunger.
-  - And try to find that big shroom... She will rly fill your hunger.
+  - And try to find that big shroom... She will rly fill your hunger for +2.
   autoProgressLines: 0100
   autoProgressDelay: 1.5
   typingSpeed: 0.05

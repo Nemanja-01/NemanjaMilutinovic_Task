@@ -3,11 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\neman\\NGP_Test\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{37DBA48B-4A30-3738-BA88-9B1CBE891BC0}|Assembly-CSharp.csproj|C:\\Users\\neman\\NGP_Test\\assets\\script\\sc_slot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37DBA48B-4A30-3738-BA88-9B1CBE891BC0}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\sc_slot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{37DBA48B-4A30-3738-BA88-9B1CBE891BC0}|Assembly-CSharp.csproj|c:\\users\\neman\\ngp_test\\assets\\script\\sc_hotbarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{37DBA48B-4A30-3738-BA88-9B1CBE891BC0}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\sc_hotbarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{37DBA48B-4A30-3738-BA88-9B1CBE891BC0}|Assembly-CSharp.csproj|c:\\users\\neman\\ngp_test\\assets\\script\\sc_itemuidisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{37DBA48B-4A30-3738-BA88-9B1CBE891BC0}|Assembly-CSharp.csproj|C:\\Users\\neman\\NGP_Test\\assets\\script\\sc_itemuidisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{37DBA48B-4A30-3738-BA88-9B1CBE891BC0}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\sc_itemuidisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -43,10 +47,6 @@
       "RelativeMoniker": "D:0:0:{37DBA48B-4A30-3738-BA88-9B1CBE891BC0}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\sc_itemdrag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{37DBA48B-4A30-3738-BA88-9B1CBE891BC0}|Assembly-CSharp.csproj|C:\\Users\\neman\\NGP_Test\\assets\\script\\sc_slot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37DBA48B-4A30-3738-BA88-9B1CBE891BC0}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\sc_slot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{37DBA48B-4A30-3738-BA88-9B1CBE891BC0}|Assembly-CSharp.csproj|C:\\Users\\neman\\NGP_Test\\assets\\script\\sc_tabcontroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{37DBA48B-4A30-3738-BA88-9B1CBE891BC0}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\sc_tabcontroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -63,8 +63,8 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scripts\\sc_playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\neman\\NGP_Test\\assets\\script\\sc_areatransition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\script\\sc_areatransition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\neman\\NGP_Test\\Assets\\Script\\SC_AreaTransition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Script\\SC_AreaTransition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -74,37 +74,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "SC_HotBarController.cs",
-              "DocumentMoniker": "C:\\Users\\neman\\NGP_Test\\Assets\\Script\\SC_HotBarController.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\SC_HotBarController.cs",
-              "ToolTip": "C:\\Users\\neman\\NGP_Test\\Assets\\Script\\SC_HotBarController.cs",
-              "RelativeToolTip": "Assets\\Script\\SC_HotBarController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T19:18:46.543Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SC_ItemUIDisplay.cs",
-              "DocumentMoniker": "C:\\Users\\neman\\NGP_Test\\Assets\\Script\\SC_ItemUIDisplay.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\SC_ItemUIDisplay.cs",
-              "ToolTip": "C:\\Users\\neman\\NGP_Test\\Assets\\Script\\SC_ItemUIDisplay.cs",
-              "RelativeToolTip": "Assets\\Script\\SC_ItemUIDisplay.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAAwCQAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T18:25:48.679Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "SC_ItemCollector.cs",
               "DocumentMoniker": "C:\\Users\\neman\\NGP_Test\\Assets\\Script\\SC_ItemCollector.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\SC_ItemCollector.cs",
@@ -116,7 +90,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "SC_ItemLibrary.cs",
               "DocumentMoniker": "C:\\Users\\neman\\NGP_Test\\Assets\\Script\\SC_ItemLibrary.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\SC_ItemLibrary.cs",
@@ -128,7 +102,45 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "SC_Slot.cs",
+              "DocumentMoniker": "C:\\Users\\neman\\NGP_Test\\Assets\\Script\\SC_Slot.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\SC_Slot.cs",
+              "ToolTip": "C:\\Users\\neman\\NGP_Test\\Assets\\Script\\SC_Slot.cs",
+              "RelativeToolTip": "Assets\\Script\\SC_Slot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T16:28:43.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SC_ItemUIDisplay.cs",
+              "DocumentMoniker": "C:\\Users\\neman\\NGP_Test\\Assets\\Script\\SC_ItemUIDisplay.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\SC_ItemUIDisplay.cs",
+              "ToolTip": "C:\\Users\\neman\\NGP_Test\\Assets\\Script\\SC_ItemUIDisplay.cs",
+              "RelativeToolTip": "Assets\\Script\\SC_ItemUIDisplay.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwCQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T18:25:48.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SC_HotBarController.cs",
+              "DocumentMoniker": "C:\\Users\\neman\\NGP_Test\\Assets\\Script\\SC_HotBarController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\SC_HotBarController.cs",
+              "ToolTip": "C:\\Users\\neman\\NGP_Test\\Assets\\Script\\SC_HotBarController.cs",
+              "RelativeToolTip": "Assets\\Script\\SC_HotBarController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwEYAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T19:18:46.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "SC_InvController.cs",
               "DocumentMoniker": "C:\\Users\\neman\\NGP_Test\\Assets\\Script\\SC_InvController.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\SC_InvController.cs",
@@ -140,7 +152,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "SC_Item.cs",
               "DocumentMoniker": "C:\\Users\\neman\\NGP_Test\\Assets\\Script\\SC_Item.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\SC_Item.cs",
@@ -152,7 +164,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "SC_InvSaveData.cs",
               "DocumentMoniker": "C:\\Users\\neman\\NGP_Test\\Assets\\Script\\SC_InvSaveData.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\SC_InvSaveData.cs",
@@ -164,7 +176,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "SC_SaveData.cs",
               "DocumentMoniker": "C:\\Users\\neman\\NGP_Test\\Assets\\Script\\SC_SaveData.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\SC_SaveData.cs",
@@ -176,7 +188,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "SC_GameController.cs",
               "DocumentMoniker": "C:\\Users\\neman\\NGP_Test\\Assets\\Script\\SC_GameController.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\SC_GameController.cs",
@@ -188,7 +200,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "SC_ItemDrag.cs",
               "DocumentMoniker": "C:\\Users\\neman\\NGP_Test\\Assets\\Script\\SC_ItemDrag.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\SC_ItemDrag.cs",
@@ -197,18 +209,6 @@
               "ViewState": "AQIAABUAAAAAAAAAAAAowCIAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-14T16:39:46.295Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "SC_Slot.cs",
-              "DocumentMoniker": "C:\\Users\\neman\\NGP_Test\\Assets\\Script\\SC_Slot.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\SC_Slot.cs",
-              "ToolTip": "C:\\Users\\neman\\NGP_Test\\Assets\\Script\\SC_Slot.cs",
-              "RelativeToolTip": "Assets\\Script\\SC_Slot.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T16:28:43.75Z"
             },
             {
               "$type": "Document",
