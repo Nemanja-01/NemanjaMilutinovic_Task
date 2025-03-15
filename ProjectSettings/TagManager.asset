@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Item
   layers:
   - Default
   - TransparentFX
@@ -40,4 +41,22 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 311146683
+    locked: 0
+  - name: Player
+    uniqueID: 577147153
+    locked: 0
+  - name: Collision
+    uniqueID: 3062276413
+    locked: 0
+  - name: Decor
+    uniqueID: 718516145
+    locked: 0
+  - name: WalkInFront
+    uniqueID: 2183481975
+    locked: 0
+  - name: WalkInbehind
+    uniqueID: 1517132415
     locked: 0

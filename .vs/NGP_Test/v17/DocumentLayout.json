@@ -1,0 +1,278 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\neman\\NGP_Test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37DBA48B-4A30-3738-BA88-9B1CBE891BC0}|Assembly-CSharp.csproj|c:\\users\\neman\\ngp_test\\assets\\script\\sc_hotbarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37DBA48B-4A30-3738-BA88-9B1CBE891BC0}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\sc_hotbarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37DBA48B-4A30-3738-BA88-9B1CBE891BC0}|Assembly-CSharp.csproj|c:\\users\\neman\\ngp_test\\assets\\script\\sc_itemuidisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37DBA48B-4A30-3738-BA88-9B1CBE891BC0}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\sc_itemuidisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37DBA48B-4A30-3738-BA88-9B1CBE891BC0}|Assembly-CSharp.csproj|C:\\Users\\neman\\NGP_Test\\assets\\script\\sc_item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37DBA48B-4A30-3738-BA88-9B1CBE891BC0}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\sc_item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37DBA48B-4A30-3738-BA88-9B1CBE891BC0}|Assembly-CSharp.csproj|C:\\Users\\neman\\NGP_Test\\assets\\script\\sc_invcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37DBA48B-4A30-3738-BA88-9B1CBE891BC0}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\sc_invcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37DBA48B-4A30-3738-BA88-9B1CBE891BC0}|Assembly-CSharp.csproj|C:\\Users\\neman\\NGP_Test\\assets\\script\\sc_itemlibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37DBA48B-4A30-3738-BA88-9B1CBE891BC0}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\sc_itemlibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37DBA48B-4A30-3738-BA88-9B1CBE891BC0}|Assembly-CSharp.csproj|C:\\Users\\neman\\NGP_Test\\assets\\script\\sc_itemcollector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37DBA48B-4A30-3738-BA88-9B1CBE891BC0}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\sc_itemcollector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37DBA48B-4A30-3738-BA88-9B1CBE891BC0}|Assembly-CSharp.csproj|C:\\Users\\neman\\NGP_Test\\assets\\script\\sc_invsavedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37DBA48B-4A30-3738-BA88-9B1CBE891BC0}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\sc_invsavedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37DBA48B-4A30-3738-BA88-9B1CBE891BC0}|Assembly-CSharp.csproj|C:\\Users\\neman\\NGP_Test\\assets\\script\\sc_gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37DBA48B-4A30-3738-BA88-9B1CBE891BC0}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\sc_gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37DBA48B-4A30-3738-BA88-9B1CBE891BC0}|Assembly-CSharp.csproj|C:\\Users\\neman\\NGP_Test\\assets\\script\\sc_savedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37DBA48B-4A30-3738-BA88-9B1CBE891BC0}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\sc_savedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37DBA48B-4A30-3738-BA88-9B1CBE891BC0}|Assembly-CSharp.csproj|C:\\Users\\neman\\NGP_Test\\assets\\script\\sc_itemdrag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37DBA48B-4A30-3738-BA88-9B1CBE891BC0}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\sc_itemdrag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37DBA48B-4A30-3738-BA88-9B1CBE891BC0}|Assembly-CSharp.csproj|C:\\Users\\neman\\NGP_Test\\assets\\script\\sc_slot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37DBA48B-4A30-3738-BA88-9B1CBE891BC0}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\sc_slot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37DBA48B-4A30-3738-BA88-9B1CBE891BC0}|Assembly-CSharp.csproj|C:\\Users\\neman\\NGP_Test\\assets\\script\\sc_tabcontroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37DBA48B-4A30-3738-BA88-9B1CBE891BC0}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\sc_tabcontroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37DBA48B-4A30-3738-BA88-9B1CBE891BC0}|Assembly-CSharp.csproj|C:\\Users\\neman\\NGP_Test\\assets\\script\\sc_menucontroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37DBA48B-4A30-3738-BA88-9B1CBE891BC0}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\sc_menucontroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37DBA48B-4A30-3738-BA88-9B1CBE891BC0}|Assembly-CSharp.csproj|C:\\Users\\neman\\NGP_Test\\assets\\script\\sc_playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37DBA48B-4A30-3738-BA88-9B1CBE891BC0}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\sc_playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\neman\\ngp_test\\assets\\scripts\\sc_playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scripts\\sc_playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\neman\\NGP_Test\\assets\\script\\sc_areatransition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\script\\sc_areatransition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SC_HotBarController.cs",
+              "DocumentMoniker": "C:\\Users\\neman\\NGP_Test\\Assets\\Script\\SC_HotBarController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\SC_HotBarController.cs",
+              "ToolTip": "C:\\Users\\neman\\NGP_Test\\Assets\\Script\\SC_HotBarController.cs",
+              "RelativeToolTip": "Assets\\Script\\SC_HotBarController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T19:18:46.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SC_ItemUIDisplay.cs",
+              "DocumentMoniker": "C:\\Users\\neman\\NGP_Test\\Assets\\Script\\SC_ItemUIDisplay.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\SC_ItemUIDisplay.cs",
+              "ToolTip": "C:\\Users\\neman\\NGP_Test\\Assets\\Script\\SC_ItemUIDisplay.cs",
+              "RelativeToolTip": "Assets\\Script\\SC_ItemUIDisplay.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwCQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T18:25:48.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SC_ItemCollector.cs",
+              "DocumentMoniker": "C:\\Users\\neman\\NGP_Test\\Assets\\Script\\SC_ItemCollector.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\SC_ItemCollector.cs",
+              "ToolTip": "C:\\Users\\neman\\NGP_Test\\Assets\\Script\\SC_ItemCollector.cs",
+              "RelativeToolTip": "Assets\\Script\\SC_ItemCollector.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T17:43:35.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SC_ItemLibrary.cs",
+              "DocumentMoniker": "C:\\Users\\neman\\NGP_Test\\Assets\\Script\\SC_ItemLibrary.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\SC_ItemLibrary.cs",
+              "ToolTip": "C:\\Users\\neman\\NGP_Test\\Assets\\Script\\SC_ItemLibrary.cs",
+              "RelativeToolTip": "Assets\\Script\\SC_ItemLibrary.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T17:08:17.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SC_InvController.cs",
+              "DocumentMoniker": "C:\\Users\\neman\\NGP_Test\\Assets\\Script\\SC_InvController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\SC_InvController.cs",
+              "ToolTip": "C:\\Users\\neman\\NGP_Test\\Assets\\Script\\SC_InvController.cs",
+              "RelativeToolTip": "Assets\\Script\\SC_InvController.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAowBwAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T16:30:21.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SC_Item.cs",
+              "DocumentMoniker": "C:\\Users\\neman\\NGP_Test\\Assets\\Script\\SC_Item.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\SC_Item.cs",
+              "ToolTip": "C:\\Users\\neman\\NGP_Test\\Assets\\Script\\SC_Item.cs",
+              "RelativeToolTip": "Assets\\Script\\SC_Item.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T17:06:48.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SC_InvSaveData.cs",
+              "DocumentMoniker": "C:\\Users\\neman\\NGP_Test\\Assets\\Script\\SC_InvSaveData.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\SC_InvSaveData.cs",
+              "ToolTip": "C:\\Users\\neman\\NGP_Test\\Assets\\Script\\SC_InvSaveData.cs",
+              "RelativeToolTip": "Assets\\Script\\SC_InvSaveData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T17:15:56.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SC_SaveData.cs",
+              "DocumentMoniker": "C:\\Users\\neman\\NGP_Test\\Assets\\Script\\SC_SaveData.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\SC_SaveData.cs",
+              "ToolTip": "C:\\Users\\neman\\NGP_Test\\Assets\\Script\\SC_SaveData.cs",
+              "RelativeToolTip": "Assets\\Script\\SC_SaveData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T16:06:56.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SC_GameController.cs",
+              "DocumentMoniker": "C:\\Users\\neman\\NGP_Test\\Assets\\Script\\SC_GameController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\SC_GameController.cs",
+              "ToolTip": "C:\\Users\\neman\\NGP_Test\\Assets\\Script\\SC_GameController.cs",
+              "RelativeToolTip": "Assets\\Script\\SC_GameController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wCMAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T16:09:06.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SC_ItemDrag.cs",
+              "DocumentMoniker": "C:\\Users\\neman\\NGP_Test\\Assets\\Script\\SC_ItemDrag.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\SC_ItemDrag.cs",
+              "ToolTip": "C:\\Users\\neman\\NGP_Test\\Assets\\Script\\SC_ItemDrag.cs",
+              "RelativeToolTip": "Assets\\Script\\SC_ItemDrag.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowCIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T16:39:46.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SC_Slot.cs",
+              "DocumentMoniker": "C:\\Users\\neman\\NGP_Test\\Assets\\Script\\SC_Slot.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\SC_Slot.cs",
+              "ToolTip": "C:\\Users\\neman\\NGP_Test\\Assets\\Script\\SC_Slot.cs",
+              "RelativeToolTip": "Assets\\Script\\SC_Slot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T16:28:43.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SC_MenuControll.cs",
+              "DocumentMoniker": "C:\\Users\\neman\\NGP_Test\\Assets\\Script\\SC_MenuControll.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\SC_MenuControll.cs",
+              "ToolTip": "C:\\Users\\neman\\NGP_Test\\Assets\\Script\\SC_MenuControll.cs",
+              "RelativeToolTip": "Assets\\Script\\SC_MenuControll.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T15:51:23.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SC_TabControll.cs",
+              "DocumentMoniker": "C:\\Users\\neman\\NGP_Test\\Assets\\Script\\SC_TabControll.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\SC_TabControll.cs",
+              "ToolTip": "C:\\Users\\neman\\NGP_Test\\Assets\\Script\\SC_TabControll.cs",
+              "RelativeToolTip": "Assets\\Script\\SC_TabControll.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T15:39:44.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SC_AreaTransition.cs",
+              "DocumentMoniker": "C:\\Users\\neman\\NGP_Test\\Assets\\Script\\SC_AreaTransition.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\SC_AreaTransition.cs",
+              "ToolTip": "C:\\Users\\neman\\NGP_Test\\Assets\\Script\\SC_AreaTransition.cs",
+              "RelativeToolTip": "Assets\\Script\\SC_AreaTransition.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T13:58:04.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SC_PlayerMovement.cs",
+              "DocumentMoniker": "C:\\Users\\neman\\NGP_Test\\Assets\\Script\\SC_PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\SC_PlayerMovement.cs",
+              "ToolTip": "C:\\Users\\neman\\NGP_Test\\Assets\\Script\\SC_PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Script\\SC_PlayerMovement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T22:02:23.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SC_PlayerMovement.cs",
+              "DocumentMoniker": "C:\\Users\\neman\\NGP_Test\\Assets\\Scripts\\SC_PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SC_PlayerMovement.cs",
+              "ToolTip": "C:\\Users\\neman\\NGP_Test\\Assets\\Scripts\\SC_PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SC_PlayerMovement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T21:01:08.74Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

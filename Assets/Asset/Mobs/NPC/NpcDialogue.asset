@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2843ac49caa85d84cb8658f5cc536d00, type: 3}
+  m_Name: NpcDialogue
+  m_EditorClassIdentifier: 
+  npcName: Goblin
+  npcLooks: {fileID: -813955442, guid: 2bb498e0bb1e78c439373ae58fd5b59a, type: 3}
+  dialogueText:
+  - Hello there.
+  - You need to eat something young man, you are too skini.
+  - So go find some food.
+  - Don't eat bones, eat pumpkins for +1 hunger.
+  - And try to find that big shroom... She will rly fill your hunger.
+  autoProgressLines: 0100
+  autoProgressDelay: 1.5
+  typingSpeed: 0.05
+  voiceSound: {fileID: 8300000, guid: 2ea7d26645640924fa50a2725a43513e, type: 3}
+  voicePitch: 1

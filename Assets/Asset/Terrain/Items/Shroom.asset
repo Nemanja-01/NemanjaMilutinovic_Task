@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23edbe90c3341804a90aa7c8f046e7f0, type: 3}
+  m_Name: Shroom
+  m_EditorClassIdentifier: 
+  ID: 3
+  Name: Shroom
+  Description: I hope this is healty.
+  icon: {fileID: 21300000, guid: 76a4caa2a5bfdc24cbf86db16ee9c7bb, type: 3}
+  isConsumable: 1
+  hungerValue: 2
